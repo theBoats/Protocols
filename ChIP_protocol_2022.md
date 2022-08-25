@@ -26,7 +26,7 @@
 ## Day 1 
 
 1. Lyse cells in 1 mL of lysis buffer + protease inhibitor (prepare 960 uL lysis buffer + 40 uL 25X protease inhibitor)
-> To make 25X protease inhibitor dissolve one tablet in 2 mL water. Tablets are found in the 4oC fridge. Use the tablets with EDTA.
+> To make 25X protease inhibitor dissolve one tablet in 2 mL water. Tablets are found in the 4oC fridge. Use the tablets with EDTA. NOT EDTA-free.
 
 2. Sonicate cells in covaris M220, 1 mL tube with fibre. 
 
