@@ -8,7 +8,7 @@
 
 
 1. Fix cells with 1% formaldehyde for 15' with rocking
-	1. Prepare stocks of 10% paraformaldehye then add 1 mL per 10 mL of cells in media
+	1. Prepare stocks of 10% paraformaldehyde then add 1 mL per 10 mL of cells in media
 	
 2. Quench fixation with glycine; final concentration 0.125M
 	1. Prepare a stock of 1.375M glycine then add 1 mL per 11 mL of crosslinked cells
