@@ -168,7 +168,7 @@ Pipette 10 times to mix
 
 Spin down tubes
 
-> Run thermocycler and proceed immediately to step 7 once it reaches 10 degrees because the transposome is still active
+> Run thermocycler and proceed immediately to step 4 once it reaches 10 degrees because the transposome is still active
 
 4. Add 1 µl NT to each tube
 
