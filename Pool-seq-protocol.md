@@ -66,9 +66,9 @@ Add 1uL of Exonuclease 1 to each pool
 
 Place on thermocycler
 
-37 degrees 45 min
+37 degrees 45 min;
 
-92 degrees 15 min
+92 degrees 15 min;
 
 Sub-pools were then cleaned using SPRI Select beads
 
@@ -95,16 +95,16 @@ cDNA Amplification Program (Touch-up PCR)
 95 degrees 3min
 
 Four Cycles
-98 degrees 20s
-65 degrees 45s
+98 degrees 20s;
+65 degrees 45s;
 72 degrees 3min
 
 Nine Cycles
-98 degrees 20s
-67 degrees 20s
-72 degrees 3min
-72 degrees 5 min
+98 degrees 20s;
+67 degrees 20s;
+72 degrees 3min;
 
+72 degrees 5 min;
 4 degree hold
 
 Protocol
