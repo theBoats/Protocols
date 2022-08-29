@@ -210,28 +210,15 @@ Run PCR program
 
 ### Clean up Libraries
 
-Prepare fresh 80% ethanol
+> Prepare fresh 80% ethanol
 
-Add 6 uL SPRI beads to each PCR tube
-
-Shake for 2 min on Tapestation shaker
-
-Incubate at room temperature for 5 min
-
-Place on magnet
-
-Discard supernatant and add 200 uL 80% ethanol
-
-Incubate for 30 s then repeat steps 6 and 7
-
-Use a 20 uL pipette to remove any residual ethanol and leave to dry for ~3 min (tube lids open)
-
-Remove tubes from magnet and add 10 uL water
-
-Shake for 2 min on Tapestation shaker
-
-Incubate at room temperature for 5 min
-
-Place on magnet and pipette clean PCR into a fresh tube
-
-Run each sample on the Tapestation and pool equimolarly to the desired final concentration
+1. Add 6 uL SPRI beads to each PCR tube and mix thoroughly
+2. Incubate at room temperature for 5 min
+3. Place on magnet
+4. Discard supernatant and add 200 uL 80% ethanol
+5. Incubate for 30 s then repeat steps 3 and 4
+6. Quickspin then use a 20 uL pipette to remove any residual ethanol and leave to dry for ~3 min (tube lids open)
+7. Remove tubes from magnet and add 10 uL water
+8. Incubate at room temperature for 1 min
+9. Place on magnet and pipette clean PCR into a fresh tube
+10. Run each sample on the Tapestation and pool equimolarly to the desired final concentration
