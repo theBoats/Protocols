@@ -8,34 +8,35 @@ It is critical to assign your samples to pools to minimise batch effect. Critica
 Reagents Needed
 
 1. 50ng RNA per sample
-	|Pool seq box|
+- | *Pool seq box* |
 2. 10uM aliquots of each Indexed RT primer that will be used
 3. 10uM aliquot of Template Switching Oligo (TSO) 
 4. 10mM dNTPs 
 5. Exonuclease 1
-	|Smart-seq box|
+- | *Smart-seq box* |
 6. RT: Clontech SMARTscribe 
 7. 5X FS buffer
 8. 100mM MgCl2
-	|Protein box|
+- | *Protein box* |
 9. 100mM DTT
-	|Perkins lab fridge in rack|
+- | *Perkins lab fridge in rack* |
 10. 5M betaine
-	|Perkins lab fridge or RT on Graham's bench
+- | *Perkins lab fridge or RT on Graham's bench* |
 11. SPRI Select or XP beads
 
 > Try quantifying input RNA with Qubit assay
 
 
 ### RT Program for Thermocycler
-42 degrees for 90 min
+- 42 degrees for 90 min
 
 Ten Cycles:
-50 degrees 2 min
-42 degrees 2 min
-70 degrees 15 min
+- 50 degrees 2 min
+- 42 degrees 2 min
+- 70 degrees 15 min
 
-4 degree hold
+Then:
+- 4 degree hold
 
 ### Annealing
 1. Add 50ng of RNA to a PCR tube and make up to 5uL with water
@@ -92,20 +93,21 @@ Reagents Needed
 
 cDNA Amplification Program (Touch-up PCR)
 
-95 degrees 3min
+- 95 degrees 3min
 
 Four Cycles
-98 degrees 20s;
-65 degrees 45s;
-72 degrees 3min
+- 98 degrees 20s
+- 65 degrees 45s
+- 72 degrees 3min
 
 Nine Cycles
-98 degrees 20s;
-67 degrees 20s;
-72 degrees 3min;
+- 98 degrees 20s
+- 67 degrees 20s
+- 72 degrees 3min
 
-72 degrees 5 min;
-4 degree hold
+Then:
+- 72 degrees 5 min;
+- 4 degree hold
 
 Protocol
 
@@ -131,10 +133,10 @@ Dilute cDNA sub-pools to 0.2 ng/uL
 Reagents Needed
 
 1. 0.2 ng/uL cDNA sub-pools
-	|Pool-seq box|
+- | *Pool-seq box* |
 2. 2uM Indexed Nextera i5 primers
 3. 2uM Enrichment Primer A
-	|Perkins -30oC freezer and glass door fridge|
+- | *Perkins -30oC freezer and glass door fridge |*
 4. Nextera XT Kit
 
 *Followed the Nextera XT protocol with diluted RNA and reduced kit volumes (five-fold)*
@@ -145,8 +147,8 @@ https://emea.support.illumina.com/content/dam/illumina-support/documents/documen
 
 Tagment Program (Set lid temperature to 100 degrees)
 
-55 degrees 3 min
-10 degree hold
+- 55 degrees 3 min
+- 10 degree hold
 
 
 Tagment Protocol
@@ -179,16 +181,17 @@ Incubate at room temperature for 5 minutes
 
 PCR Program (Set lid temperature to 100 degrees) 
 
-72 degrees 3 min
-95 degrees 30 s
+- 72 degrees 3 min
+- 95 degrees 30s
 
 Twelve Cycles
-95 degrees 10 s
-55 degrees 30 s
-72 degrees 30 s
-72 degrees 5 min
+- 95 degrees 10s
+- 55 degrees 30s
+- 72 degrees 30s
 
-10 degree hold
+Then:
+- 72 degrees 5 min
+- 10 degree hold
 
 PCR Protocol
 
