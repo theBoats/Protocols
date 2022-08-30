@@ -33,9 +33,9 @@ Reagents Needed
 Ten Cycles:
 - 50 degrees 2 min
 - 42 degrees 2 min
-- 70 degrees 15 min
 
 Then:
+- 70 degrees 15 min
 - 4 degree hold
 
 ### Annealing
