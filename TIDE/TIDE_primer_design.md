@@ -67,25 +67,25 @@ The Refseq track will generally have a single curated annotation for each gene. 
 
 6. Enter the sequence from step 4 into the PCR template box. Based on your design above. Select a suitable region for the forward primer to reside in (ensuring sufficient length before the Cas9 cut site). The reverse primer can be left blank. The position of the reverse primer will be constrained by the minimum amplicon length set in the next step.
 
-![](./1.bmp)
+![](./images/1.bmp)
 
 <br />
 
 7. Set the amplicon length to suitable size.
 
-![](./2.bmp)
+![](./images/2.bmp)
 
 <br />
 
 8. Open the advanced tab and change the primer length parameters.
 
-![](./3.bmp)
+![](./images/3.bmp)
 
 <br />
 
 9. Hit the 'Get Primers' button. Results will take a minute or two to return. You will get an output resembling this:
 
-![](./4.bmp)
+![](./images/4.bmp)
 
 Primer pairs are returned in order of quality based on a number of metrics. 
 
@@ -115,10 +115,10 @@ Primer pairs are returned in order of quality based on a number of metrics.
 	- visualise the whole gene on the browser. You should still see your BLAT result and the In silico PCR result
 
 Whole gene view
-![](./5.bmp)
+![](./images/5.bmp)
 
 Zoomed in
-![](./6.bmp)
+![](./images/6.bmp)
 
 11. Save screenshots of your design similar to the ones in this report. 
 >I recommend putting them straight into a powerpoint. Useful for when you have to present your data or explain to your supervisor etc what you have done.
@@ -128,7 +128,7 @@ Zoomed in
 
 Example database
 
-![](./7.bmp)
+![](./images/7.bmp)
 
 The reference field I use if I take the sequence from a paper and is labelled 'designed' if I've designed it myself.
 
