@@ -18,7 +18,7 @@ For our purposes we will call it qPCR.
 
 >If there are very short introns then exons two or three apart from each other may be more appropriate. 
 
-![](./1.bmp)
+![](./images/1.bmp)
 
 >Sometimes this is impossible. In that case choose the best two exons that cover the majority of transcripts. In the above diagram one exon is common to all known transcripts (red) and an adjacent exon is common to most transcripts (orange). One of the known transcripts is missed (orange).
 
@@ -27,40 +27,40 @@ For our purposes we will call it qPCR.
 For NCBI:
 	- Go to: https://www.ncbi.nlm.nih.gov/gene/ and search for your gene of interest (make sure you get the right species)
 
-![](./2.bmp)
+![](./images/2.bmp)
 <br />
 
 3. Find the NCBI Refseq mRNA annotation (Ctrl+F 'nm'). Click on the NM_####### link. (The first NM transcript is the longest and usually the one you want).
 
-![](./3.bmp)
+![](./images/3.bmp)
 
 4. Scroll down to the 'Features' section and count the exons until you find the ones you want. In this example we want the sequence of exon 3.
 
-![](./4.bmp)
+![](./images/4.bmp)
 <br />
 
 5. Open the two exons you want in new windows. At the top of each new page select 'FASTA' to get the sequence of each exon
 
-![](./5.bmp)
+![](./images/5.bmp)
 
 6. Go to a primer design tool such as NCBI primer blast (https://www.ncbi.nlm.nih.gov/tools/primer-blast/)
 
 - paste the sequence of both exons into the PCR template box. Take note of the length of the first exon. (You can use a word processing tool to count the number of characters e.g. ms word or sublime text).
 - in the range section enter values into the forward primer box to force the search for the forward primer to the first exon. i.e. in the 'From' section put '1' in the 'To' section put the length of the first exon.
 
-![](./6.bmp)
+![](./images/6.bmp)
 
 - adjust the amplicon size parameters
 
-![](./7.bmp)
+![](./images/7.bmp)
 
 - in the advanced settings. Adjust the primer size parameters
 
-![](./8.bmp)
+![](./images/8.bmp)
 
 - Click 'Get Primers' - it will take a few minutes for the results to return. Results should resemble this:
 
-![](./9.bmp)
+![](./images/9.bmp)
 
 7. Check the top pair in the UCSC browser for uniqueness and that their position is suitable with respect to the gene structure (see General constraints).
 	- Use Tools > Blat
@@ -85,12 +85,12 @@ For NCBI:
 
 	- repeat step 5. and change the target to 'GENCODE genes'. You may get a single or multiple hits for the result. Make sure all the results are for transcripts of your gene of interest. Check that the amplicon size is the same for all results.
 
-![](./13.bmp)
+![](./images/13.bmp)
 Note that all matches are to the Il6st gene and are the same length. Each result is matching to a different transcript isoform.
 
 	- visualise the whole gene on the browser. You should still see your BLAT result and the In silico PCR result
 
-![](./10.bmp)
+![](./images/10.bmp)
 
 9. Save screenshots of your design similar to the ones in this report. 
 >I recommend putting them straight into a powerpoint. Useful for when you have to present your data or explain to your supervisor etc what you have done.
@@ -100,7 +100,7 @@ Note that all matches are to the Il6st gene and are the same length. Each result
 
 Example database
 
-![](./11.bmp)
+![](./images/11.bmp)
 
 The reference field I use if I take the sequence from a paper and is labelled 'designed' if I've designed it myself.
 
