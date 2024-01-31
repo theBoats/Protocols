@@ -3,6 +3,8 @@
 ## Introduction
 This protocol describes a generic DNA cleanup protocol with SPRI or Ampure XP beads suitable for PCR products.
 
+Solid-phase reversible immobilization, or SPRI, is a method of purifying nucleic acids from solution. It uses carboxyl-coated paramagnetic beads. When the beads are resuspended in solutions with high concentrations of polyethylene glycol and salts, they are capable of binding reversibly to nucleic acids. This binding is size selective, in that longer polymers of nucleic acids bind more efficiently than shorter ones. This is ideal for removing short primer sequences from longer PCR products.
+
 ## Method
 
 1. Prepare fresh 80% ethanol
